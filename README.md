@@ -2,8 +2,8 @@
 This the Ecommerce online shopping project. By using Technology of Angular and Spring. 
 
 
-# Nile - e-commerce app with electronics. 
-### Nile made with Angular 11 and Spring
+# Shoppers- e-commerce app with electronics. 
+### Shoppers made with Angular 11 and Spring
  
 ## Technology stack
 |   Component   |   Technology  |
