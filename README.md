@@ -15,10 +15,10 @@ This the Ecommerce online shopping project. By using Technology of Angular and S
 
 ## Requirements to run the application
 
-  - Java 14
+  - Spring
   - Angular CLI: 10.1.3 or above
-  - Node: 12.18.3 or above
-  - npm: 6.14.7 or above
+  - JSP Servlet
+  
   
 ## About
    Electronic shopping project. is e-commerce project. Users are divided by roles. Each user has a role assigned functionality
